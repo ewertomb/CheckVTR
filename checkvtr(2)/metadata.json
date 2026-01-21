@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "CheckVTR",
+  "description": "Sistema de controle diário, checklists com foto e gestão de manutenção para frotas de viaturas."
+}
